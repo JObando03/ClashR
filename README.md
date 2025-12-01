@@ -13,5 +13,5 @@ In order to use this package follow the steps below:
 
 To download the package, use the code below
 install.packages("devtools")
-devtools::install_github("JObando03/ClashR")
+devtools::install_github("JObando03/ClashR/ClashR")
 library(ClashR)
